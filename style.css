@@ -6,7 +6,7 @@
 }
 
 #canvas1 {
-  background: url("./public/background.png");
+  background: url("./background.png");
   position: absolute;
   top: 50%;
   left: 50%;
